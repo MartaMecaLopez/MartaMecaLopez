@@ -16,9 +16,7 @@ Estas son algunas de las herramientas con las que trabajo:
 
 Ahora mismo __estoy buscando una oportunidad profesional en análisis de datos__. Me encantaría seguir creciendo en este campo y combinar todo lo que he aprendido con mi experiencia en ventas y optimización de procesos.
 
-Estoy abierta a colaborar, aprender y compartir ideas, así que no dudes en visitarme en mi perfil de __LinkedIn__:
-
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="martamecalópez" data-version="v1"> <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/martamecal%C3%B3pez/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
+Estoy abierta a colaborar, aprender y compartir ideas, así que no dudes en visitarme en mi perfil de __LinkedIn__ o ponerte en contacto conmigo por __correo electrónico__:
 
 <br>
 
