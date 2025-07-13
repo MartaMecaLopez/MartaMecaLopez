@@ -1,6 +1,7 @@
 ## ¡Hola! Me llamo Marta Meca y soy analista de datos. ¡Encantada de conocerte! 
 
 Tras más de 7 años dedicándome a las ventas B2B como _wholesale manager_ en la industria de la __moda y el retail__, descubrí que mi verdadera vocación estaba en el __análisis de datos__.
+
 __¿Cómo ocurrió?__ De forma muy natural: me di cuenta de que la parte de mi trabajo que más me gustaba era el análisis de ventas y la implementación de nuevos procesos en el departamento, más que las ventas en sí.
 
 A partir de ahí, comencé a formarme en otra de mis pasiones: __la inteligencia artificial__, además de en programas especializados en procesos de ventas como __Zoho, Airtable, Trello o SAGE__.
