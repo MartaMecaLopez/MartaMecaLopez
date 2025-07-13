@@ -19,3 +19,21 @@ Ahora mismo __estoy buscando una oportunidad profesional en análisis de datos__
 Estoy abierta a colaborar, aprender y compartir ideas, así que no dudes en visitarme en mi perfil de __LinkedIn__:
 
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="martamecalópez" data-version="v1"> <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/martamecal%C3%B3pez/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
+
+<br>
+
+<p align="center"><!-----Social Accounts------>
+
+<p align="center">
+
+ <a href="https://www.linkedin.com/in/martamecal%C3%B3pez/">
+ 
+ <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+ </a>
+
+ <a href="mailto:martamecalopez@gmail.com">
+ <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+ </a>
+</p>
+
+<br>
