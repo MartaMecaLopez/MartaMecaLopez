@@ -9,8 +9,7 @@ Más recientemente, me he especializado en análisis de datos con el __Bootcamp 
 
 <div style="margin-top: 10px; margin-bottom: 10px;"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> </div>
 
-Ahora mismo __estoy buscando una oportunidad profesional en análisis de datos__. Me encantaría poder seguir creciendo en este campo y combinarlo con todo lo que he aprendido con mi experiencia en ventas y procesos.
-
+Ahora mismo __estoy buscando una oportunidad profesional en análisis de datos__. Me encantaría seguir creciendo en este campo y combinar todo lo que he aprendido con mi experiencia en ventas y optimización de procesos.
 
 Estoy abierta a colaborar, aprender y compartir ideas, así que no dudes en visitarme en mi perfil de __LinkedIn__:
 
