@@ -1,4 +1,4 @@
-## ¡Hola! Me llamo Marta Meca y soy analista de datos. ¡Encantada de conocerte! 
+## Hola, me llamo Marta Meca y soy analista de datos. ¡Encantada de conocerte! 
 
 Tras más de 7 años dedicándome a las ventas B2B como _wholesale manager_ en la industria de la __moda y el retail__, descubrí que mi verdadera vocación estaba en el __análisis de datos__.
 
